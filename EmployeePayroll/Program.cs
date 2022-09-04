@@ -17,7 +17,7 @@
                     DailyWage.CalDailyWages();
                     break;
                 case 3:
-                    PartTimeWage.CalculatePartTime();
+                    PartTimeWage1.CalculatePartTime();
                     break;
                 case 4:
                     PartTimeSwitch.CalculatePartTime();
