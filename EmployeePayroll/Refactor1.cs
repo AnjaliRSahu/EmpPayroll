@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeePayroll
 {
-    internal class Refactor
+    internal class Refactor1
     {
         public const int IS_PART_TIME = 1;
         public const int IS_FULL_TIME = 2;

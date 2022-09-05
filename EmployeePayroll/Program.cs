@@ -25,8 +25,9 @@
                  case 5:
                     WageforMonth.CalculateMonthWage();
                     break;
+                
                 case 6:
-                    Refactor.ComputeEmpWage();
+                    Refactor1.ComputeEmpWage();
                     break;
                 default:
 
