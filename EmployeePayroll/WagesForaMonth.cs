@@ -22,19 +22,19 @@ namespace EmployeePayroll
                     case 1:
                         empHrs = 4;
                         break;
-                        case 2:
+                    case 2:
                         empHrs = 8;
                         break;
-                     default:
+                    default:
                         empHrs = 0;
                         break;
                 }
-                 totalEmpHrs+=empHrs;
+                totalEmpHrs += empHrs;
                 Console.WriteLine("Day {0} and empHrs {1}", totalWorkingDays, totalEmpHrs);
-                }
+            }
             int totalEmpWage = totalEmpHrs * 20;
             Console.WriteLine();
-            Console.WriteLine("total emp wage is : {0}",totalEmpWage);
+            Console.WriteLine("total emp wage is : {0}", totalEmpWage);
 
 
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmployeePayroll
 {
-    internal class PartTimeWage
+    internal class PartTimeWage1
     {
         public static void CalculatePartTime()
         {
