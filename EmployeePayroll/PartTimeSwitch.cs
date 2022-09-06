@@ -12,7 +12,7 @@ namespace EmployeePayroll
         {
             //const int IS_FULL_TIME = 1;
             //const int IS_PART_TIME = 2;
-            const int EMP_PER_HOUR = 20;
+            //const int EMP_PER_HOUR = 20;
 
             int empHrs = 0;
             Random random = new Random();
